@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emil8limE
-- 👀 I’m interested in videogames
-- 🌱 I’m currently learning python as my first coding language
-- 💞️ I’m looking to collaborate on fucking around and stealing code
+- 👀 I’m interested in videogames, piracy and making my online surfing as painless and comfortable as possibe with out spendig a dime. B)
+- 🌱 I’m currently learning python as my first coding language (as of now 30,11 2023 its not going anywhere)
+- 💞️ I’m looking to collaborate on fucking around (subsequently finding out) and stealing code
 - 📫 How to reach me uhh.. you don't ??
 
 <!---
